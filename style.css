@@ -1,0 +1,17 @@
+/* Simple styling for the Hello World page */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 20%;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+    font-size: 3rem;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #666;
+}
